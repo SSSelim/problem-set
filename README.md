@@ -1,4 +1,4 @@
-# Problem Sets
+# Problem Set
 
 A collection of problems/assignments for practising/learning. 
 
@@ -10,3 +10,4 @@ and may contain solutions in different programming languages.
 - Improve problem solving skills, and speed.
 
 # Problem Set List
+* Problem 000 - Replace Consecutive Letters
